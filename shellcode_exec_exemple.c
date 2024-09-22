@@ -6,6 +6,8 @@
 #include <errno.h>
 
 int main() {
+printf("Process ID: %d\n", getpid());
+
     // Shellcode for execve("/bin/sh", NULL, NULL) - 30 bytes
 //    unsigned char shellcode[] = \
 //    "\x31\xc9\xf7\xe9\x51\x04\x0b\xeb\x08\x5e\x87\xe6\x99\x87\xdc\xcd\x80"
@@ -73,6 +75,9 @@ char shellcode[] =
         return 1;
     }
     printf("Memory unmapped successfully.\n");
-
+    while(1) {
+      sleep(30);
+    break;
+    }
     return 0;
 }

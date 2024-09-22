@@ -8,6 +8,8 @@ void foo(void);
 int change_page_permissions_of_address(void *addr);
 
 int main(void) {
+printf("Process ID: %d\n", getpid());
+
     void *foo_addr = (void*)foo;
 
     // Change the permissions of the page that contains foo() to read, write, and execute
