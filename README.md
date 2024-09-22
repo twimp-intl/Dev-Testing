@@ -1,14 +1,20 @@
 # Dev-Testing
 This area is used as a testing ground for differnt code, ways of doing things etc. 
 Mainly testing of modified code that is AI generated. But also some downloaded
-examples from other sites. 
+examples from other sites. My development area is a Debian 12 x86_64 system.
+So the binaries are compiled on that. 
 
 Copyright is not applied to any files that have been downloaded. They may or may
 not contain their own copyright information. 
 
 See COPYRIGHT for more information. 
 
-Most of the code here is related to malware and or to Red teaming. 
+Most of the code here is related to malware and or to Red teaming. Some is 
+assembly code, some testing and elf file creation. Dammit. its possible to 
+create a functioning elf binary that is 45 bytes! (true.s)
+
+I guess some of these programs would also be helpfull if you are learning
+x86 and/or x86_64 assembly as there are a bunch of those programs here. 
 
 Lots of it is detected by AV scanners and such. 
 
