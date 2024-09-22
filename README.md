@@ -1,7 +1,9 @@
 # Dev-Testing
 This area is used as a testing ground for differnt code, ways of doing things etc. 
 Mainly testing of modified code that is AI generated. But also some downloaded
-examples from other sites. My development area is a Debian 12 x86_64 system.
+examples from other sites. However, there is plenty of my own code here. 
+
+My development area is a Debian 12 x86_64 system.
 So the binaries are compiled on that. 
 
 Copyright is not applied to any files that have been downloaded. They may or may
