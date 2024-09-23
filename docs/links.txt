@@ -74,4 +74,6 @@ https://github.com/JaoCR/asm-examples
 https://github.com/gashev/assembly-examples
 https://github.com/rykergogo/user_input_asm
 https://github.com/nicolasfguillaume/assembly_basics
+https://github.com/xoreaxeaxeax/movfuscator.git
+https://github.com/DonnchaC/shadowbrokers-exploits
 
